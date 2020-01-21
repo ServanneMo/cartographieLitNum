@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="img/reveGeneral.png" -->
 <!-- .slide: class="hover"-->
 
-# La littérature “brouhaha” au défi de la visualisation de texte
+# Le corpus “brouhaha” au défi de la visualisation de texte
 
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
 
@@ -75,10 +75,9 @@ J'aimerais interroger la thématique cartographique de ce colloque au prisme de 
 
 - nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve. Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
 
-- des écrivains architectes ? Des espaces marginaux.
- Opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte
+- Pour complèter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Construire des oeuvres, c'est aussi construire des espaces marginaux - que nous avons donc l'ambition, nous, de cartigraphier, mais comment ?
 
-Le chercheur cartographe : pourquoi ?
+Opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte
 
 réseau à la carte : effets de distance et rapprochement dans le réseau que l'on peut reconstituer pour faire carte
 
@@ -316,6 +315,13 @@ De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement d
 Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
 [CITER]
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
+## Cartographier le corpus fantôme
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 
@@ -496,19 +502,20 @@ Ici, le calcul de modularité nous donne une partition en une dizaine de "commun
 
 ====
 
-Even if "Visualizing brouhaha" is the title of my presentation, I will not show many visualizations today. I'm rather going to present how I'm struggling to produce visualizations of a quite challenging corpus, that come under what we may call a "brouhaha literature". "Brouhaha literature" is a concept proposed by the french theoritecian Lionel Ruffel in 2016, and ever since more and more used in French literary studies.
+Même si "Visualiser le brouhaha" est le titre de ma présentation, je ne montrerai pas beaucoup de visualisations aujourd'hui. Je vais plutôt présenter comment je m'efforce de produire des visualisations d'un corpus assez difficile, qui relève de ce que l'on peut appeler une "littérature de brouhaha". La "littérature de brouhaha" est un concept proposé par le théoricien français Lionel Ruffel en 2016, et depuis lors de plus en plus utilisé dans les études littéraires françaises.
 
-I will explain and illustrate in details the concept later, but quickly, let say that brouhaha-literature refers to somes new kinds of heterogeneous corpora, composed of very disseminated sources in and outside the web. Thoses sources can be textual, visual, sound, performance, etc.
+Je vais expliquer et illustrer en détail le concept plus tard, mais rapidement, disons que la littérature de brouhaha fait référence à de nouveaux types de corpus hétérogènes, composés de sources très disséminées dans et en dehors du web. Ces sources peuvent être textuelles, visuelles, sonores, de performance, etc.
 
-Although relevant, and refering to a very large part of contemporary writing and artistic practices, this concept of "brouhaha literature" can be very challenging for computational literary analysis, since the tidy notion of a work to be analyzed is replaced by a never-ending sequence of questions about what belongs and how to apprehend it.
+Bien que pertinent, et se référant à une très grande partie de l'écriture et des pratiques artistiques contemporaines, ce concept de "brouhaha littéraire" peut être très difficile pour l'analyse littéraire computationnelle, puisque la notion ordonnée d'une œuvre à analyser est remplacée par une suite sans fin de questions sur ce qui lui appartient et comment l'appréhender.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sans_titre-2.jpg" -->
 <!-- .slide: class="hover" -->
 
-### Visualizing "brouhaha literature":
-* can we find some patterns in this cacophony?
+### Objectif du projet :
+* Approche textuelle (la voix du collectif vs l'individualité des contributeurs/auteurs)
+* Si le brouhaha est synonyme de cacophonie, peut-on trouver des *patterns* collectifs ?
 
 source image: _introduction au feuilleton collectif Général Instin_ sur remue.net
 
@@ -516,39 +523,11 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 
 ===
 
-In fact, "visualizing Brouhaha" may appear like an nonsense: the principle of this literature is to be chaotic.
+En fait, "visualiser Brouhaha" peut sembler une absurdité : le principe de cette littérature est d'être chaotique.
 
-My question, to carry the metaphor, is: can we see some patterns in this brouhaha? Is it just a cacophony, or can we identify some echos, or even maybe a choral organization?
+Ma question, pour porter la métaphore, est la suivante : pouvons-nous voir certains schémas dans ce brouhaha ? S'agit-il d'une simple cacophonie, ou pouvons-nous identifier certains échos, ou même peut-être une organisation chorale ?
 
-It was a nice challenge, and I want to thank Stefan Sinclair for his help on this crazy project, that partially failed, but partially only, because as we know, one of the main interest of vizualisation is the hermeneutic process involved in our research and methodology, that can reveal the complexity of our objects.
-
-
-<!-- .slide: data-background-image="img/abnormal.png" data-background-size="contain"-->
-<!-- .slide: class="hover" -->
-
-## Building the corpus Instin (and the problems begin)
-* An old website
-* Several editors
-* Problems of structuration
-
-===
-
-Before visualizing the abd confront the notion of brouhaha, I had to collect and prepare my corpus. I chose to focus on 3 websites where we can find Instin stories:
-- Remue (this huge platform dedicated to french contemporary literature)
-- generalinstin.net (a website dedicated to a specific project)
-- hors-sol (a quite recent web Journal)
-
-I was able to extract 152 items - or pages - so it's just a part of the corpus (probably 50%), but it's probably the most important one, in terms of visibility.
-
-The web scraping process hasn't been as easy as expected, because of my level in python (I'm a beginner), but also because of the structure of the data, especially on Remue.net.
-
-Remue is an old platform, playing a major role in the production and diffusion of the French contemporary literature. The website is a spip, a CMS used a lot in the french area.
-
-Working on remue allowed me to make some kind of archeology of the website, and I was able to see how, during the last 12 years, the CMS had been sometimes too rigid for the writers and the editors, who had to do small "hacks" in order to adapt the structure of the CMS to their texts and poetry.
-
-It's also possible to recognize the work of the differents editors or webmasters working who worked on the pages.
-
-In other words, the structuration of the data, on the website, is quite dirty and, with Stefan's help, we had to do many regex...
+C'était un beau défi, et je tiens à remercier Stefan Sinclair pour son aide sur ce projet fou, qui a partiellement échoué, mais partiellement seulement, car comme nous le savons, l'un des principaux intérêts de la visualisation est le processus herméneutique impliqué dans notre recherche et notre méthodologie, qui peut révéler la complexité de nos objets.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -556,53 +535,82 @@ In other words, the structuration of the data, on the website, is quite dirty an
 <!-- .slide: data-background-image="img/abnormal.png" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
-## Methological questions
-* granularity
-* "nature" of the literary text
-* co-authoship
+## Construire le corpus Instin pour la visualisation (où les problèmes commencent)
+* De vieilles plateformes
+* Des éditeurs multiples
+* Des problèmes de structuration
 
 ===
 
-The web scraping process also raised some interesting methodological question:
-- the question of granularity: some texts are very long, composed of several other texts (what's the best strategy: considering a page, or part of the page?)
-- the question of the nature of the literary text: I'll talk about it in a few minutes, but the corpus on Remue contains some "un-creative" texts, as, for example, some announces for an event, for a performance or a festival dedicated to Instin. This is certainly part of the brouhaha, but it adresses the question of the boundaries of literature.
-- Co-authorship: in many cases, for a same page or item, there are very different kind of contributors. This problem occurs with the video contents, where we have a film-maker, the writer of the text, the performers...
+Avant de visualiser l'abdomen face à la notion de brouhaha, j'ai dû rassembler et préparer mon corpus. J'ai choisi de me concentrer sur 3 sites web où l'on peut trouver des histoires d'Instin :
+- Remue (cette immense plateforme dédiée à la littérature contemporaine française)
+- generalinstin.net (un site web dédié à un projet spécifique)
+- hors-sol (un journal web assez récent)
 
-Instin is a group, a collective: we have to take into account all those different kind of contributors in order to grasp ots dynamic.
+J'ai pu extraire 152 éléments - ou pages - donc ce n'est qu'une partie du corpus (probablement 50%), mais c'est probablement le plus important, en termes de visibilité.
+
+Le processus de grattage du web n'a pas été aussi facile que prévu, à cause de mon niveau en python (je suis débutant), mais aussi à cause de la structure des données, surtout sur Remue.net.
+
+Remue est une vieille plateforme, qui joue un rôle majeur dans la production et la diffusion de la littérature française contemporaine. Le site est un spip, un CMS très utilisé dans la région française.
+
+Travailler sur remue m'a permis de faire une sorte d'archéologie du site, et j'ai pu voir comment, pendant les 12 dernières années, le CMS avait été parfois trop rigide pour les écrivains et les éditeurs, qui ont dû faire de petits "hacks" afin d'adapter la structure du CMS à leurs textes et à leur poésie.
+
+Il est également possible de reconnaître le travail des différents éditeurs ou webmasters qui ont travaillé sur les pages.
+
+En d'autres termes, la structuration des données, sur le site web, est assez sale et, avec l'aide de Stefan, nous avons dû faire de nombreuses regex...
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/abnormal.png" data-background-size="contain"-->
+<!-- .slide: class="hover" -->
+
+## Problèmes méthodologiques
+* Granularité ?
+* "Nature" de l'objet littéraire ?
+* Co-autorité
+
+===
+
+Le processus de grattage de la toile a également soulevé une question méthodologique intéressante :
+- la question de la granularité : certains textes sont très longs, composés de plusieurs autres textes (quelle est la meilleure stratégie : considérer une page, ou une partie de la page ?)
+- la question de la nature du texte littéraire : J'en parlerai dans quelques minutes, mais le corpus sur Remue contient quelques textes "non créatifs", comme par exemple des annonces pour un événement, pour un spectacle ou un festival dédié à l'Instin. Cela fait certainement partie du brouhaha, mais cela aborde la question des frontières de la littérature.
+- Co-auteurs : dans de nombreux cas, pour une même page ou un même article, il existe des types de contributeurs très différents. Ce problème se pose avec le contenu de la vidéo, où nous avons un réalisateur, l'auteur du texte, les interprètes...
+
+L'Instin est un groupe, un collectif : nous devons prendre en compte tous ces différents types de contributeurs afin d'appréhender la dynamique.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <iframe width="853" height="480" src="https://www.youtube.com/embed/GjBZXtWrw0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### GI, a "brouhaha" or "canon"? <br> (about the "jambon laissé" phenomenon)
+### GI, un "brouhaha" ou un "canon"? <br> (le syndrome "jambon laissé")
 
 ===
 
-Regarding the video content, I will just tell you a small anecdote.
-While I was working on the transcription of a the video, using the automatic transcription tool of Youtube (which is usually quite performant), I came across an well-known issue that we call, in french "jambon laissé".
+En ce qui concerne le contenu de la vidéo, je vais vous raconter une petite anecdote.
+Alors que je travaillais sur la transcription de la vidéo, en utilisant l'outil de transcription automatique de Youtube (qui est généralement assez performant), je suis tombé sur un problème bien connu que nous appelons, en français, "jambon laissé".
 
-"jambon laissé" refers to the translation proposed by some automatic translator systems: "Hamlet", the shakespearian play, is interprated as "Ham - let" or, in french "jambon laissé".
+Le terme "jambon laissé" désigne la traduction proposée par certains systèmes de traduction automatique : "Hamlet", la pièce shakespearienne, est interprétée comme "Ham - let" ou, en français, "jambon laissé".
 
-In other words, my transcription was completely absurd and unusable. Why? Because in this video, the reading performance was a canon, the musical concept of the canon: all the readers were reading the same text, together, but with a small gap between them.
+En d'autres termes, ma transcription était complètement absurde et inutilisable. Pourquoi ? Parce que dans cette vidéo, la performance de lecture était un canon, le concept musical du canon : tous les lecteurs lisaient le même texte, ensemble, mais avec un petit écart entre eux.
 
-I think "canon" is a very promising concept to understand the brouhaha literature: I still need to explore it.
+Je pense que le "canon" est un concept très prometteur pour comprendre la littérature de brouhaha : Je dois encore l'explorer.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 <!-- .slide: data-background-image="img/voyantall.png" data-background-size="contain" -->
 
-### (eventually) Vizualising [a little bit]
+### (Finalement) Visualiser [un peu]
 
 ===
 
-So as you can see, I've been struggling a lot with my corpus, but eventually I managed to create an exploitable corpus, organized by authors and by dates.
+Comme vous pouvez le voir, j'ai beaucoup lutté avec mon corpus, mais j'ai finalement réussi à créer un corpus exploitable, organisé par auteurs et par dates.
 
-I used Voyant to produce some very simple vizualisations, and I'm going to show just a very small but interesting example.
+J'ai utilisé Voyant pour produire des visualisations très simples, et je vais vous montrer un exemple très petit mais intéressant.
 
-As I told before, the different artists and writers involved into the project use three ways to "call" the Général: "Hinstin" (from the historical figure), its artistic doppleganger "Instin", and also the abbreviation "GI", which offers many interpretations (like, for example, the american figure of the soldier).
+Comme je l'ai déjà dit, les différents artistes et écrivains impliqués dans le projet utilisent trois moyens pour "appeler" le Général : "Hinstin" (de la figure historique), son double artistique "Instin", et aussi l'abréviation "GI", qui offre de nombreuses interprétations (comme, par exemple, la figure américaine du soldat).
 
-If you take a look at the distribution of those names in the corpus through time, we can observe, without surprise, that "Instin" is mainly used in almost all the texts, from the first to the last one.
+Si l'on regarde la répartition de ces noms dans le corpus à travers le temps, on constate, sans surprise, que "Instin" est surtout utilisé dans presque tous les textes, du premier au dernier.
 
 
 
@@ -612,13 +620,13 @@ If you take a look at the distribution of those names in the corpus through time
 
 ===
 
-But it's interesting to note the way Hinstin but is in fact haunting our corpus, regularly making appearances in different text. A closer look at the text reveal Hinstin mostly re-appears into introductive texts to sub-projects.
+Mais il est intéressant de noter la façon dont Hinstin mais en fait hante notre corpus, faisant régulièrement des apparitions dans différents textes. Un examen plus approfondi du texte révèle qu'Hinstin réapparaît surtout dans des textes introductifs à des sous-projets.
 
-Hinstin with a "H" is haunting the Instin corpus.
+L'Hinstin avec un "H" hante le corpus Instin.
 
-This reiteration underline the presence of an important metadiscourse on the project and corpus itself.
+Cette réitération souligne la présence d'un métadiscours important sur le projet et le corpus lui-même.
 
-Instin is a ghost, performed by the reiterated story of his disappearance, which finally gives him a supplement of existence.
+Instin est un fantôme, représenté par l'histoire réitérée de sa disparition, qui lui donne finalement un supplément d'existence.
 
 
 <!--	Exported from Voyant Tools (voyant-tools.org).
@@ -629,8 +637,12 @@ it depends on this server.
 Feel free to change the height and width values or other styling below: -->
 <iframe style='width: 894px; height: 488px;' src='//voyant-tools.org/tool/Trends/?query=hinstin&query=instin*&corpus=9f88ad835e5c8fcd0d744c00d055a374'></iframe>
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+## Conclusion : L'architecte et le cartographe
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" -->
 <!-- .slide: class="hover" -->
 
@@ -642,17 +654,17 @@ Feel free to change the height and width values or other styling below: -->
 
 ===
 
-This metafictionnal aspect also explains why I was struggling with my "corpus".
+Cet aspect métafictionnel explique aussi pourquoi je me battais avec mon "corpus".
 
-What I was treating as a corpus seems to be primarily an archive.
+Ce que je traitais comme un corpus semble être avant tout une archive.
 
-The construction of the archive goes with the construction of the group metafiction's.
+La construction de l'archive va de pair avec la construction des métafictions du groupe.
 
-In text mining, the organization of the "corpus" doesn't matters so much. But in this case, the material aspect are important.
+Dans le text mining, l'organisation du "corpus" n'a pas tant d'importance. Mais dans ce cas, l'aspect matériel est important.
 
-In the future, I'll need to explore this tension between the primary corpus and the archive fonction: I need to understand how Instin is build by the "archive", and how this archive aims to become an artistic item.
+A l'avenir, je devrai explorer cette tension entre le corpus primaire et la fonction d'archive : Je dois comprendre comment Instin est construit par l'"archive", et comment cette archive vise à devenir un objet artistique.
 
-Archive 3.0 = performative aspect.
+Archive 3.0 = aspect performatif.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
