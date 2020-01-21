@@ -9,7 +9,7 @@
 ![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/280px-WTFPL_logo.svg.png) <!-- .element: class="logo" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: data-background-image="img/panInstin.png" -->
 <!-- .slide: class="hover"-->
 
 Défi de visualisation, défi cartographique
@@ -53,15 +53,15 @@ Je citerai ici Stéfan et Geoffrey, afin de dissiper peut-être un grand malente
 
 >Nous reconnaissons que la réaction sceptique chez le littéraire est tout à fait naturelle et nous estimons d’ailleurs qu’une bonne dose de scepticisme est essentielle lorsque se conjuguent analyse informatisée et herméneutique. Cela dit, nous souhaitons remettre en cause l’image dominante que nous fournit la société de l’ordinateur comme générateur prodigieux de données infaillibles et de graphiques inéluctables. Ce que l’on ignore souvent, c’est que l’ordinateur, grâce à la nature même du numérique, peut s’avérer une aide très puissante pour faire proliférer le nombre et les types de représentations d’un texte. Loin d’en réduire la souplesse et la richesse, les outils informatiques peuvent servir à multiplier la matière brute qui mène à de nouveaux constats, de nouvelles associations, de nouveaux arguments. La machine est l’engin du heureux hasard, contrainte seulement par l’imagination de son utilisateur. (Sinclair et Rockwell 2015)
 
-<!-- .element: style="font-size:1.4rem" -->
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
-Je déminerai d'ailleurs tout suite mon propre terrain, en précisant que je ne me compte absolument pas au rang des spécialistes de la visualisation - je m'y suis collée pendant une petite année à l'Université McGill (l'an dernier plus exactement), certes très bien entourée par Stéfan Sinclair, mais trop peu de temps pour faire autre chose qu'acquérir les bases de ce champ d'étude, ouvrir une première porte pour apercevoir immédiatement derrière des dizaines d'autres portes.
+Je dissiperai d'ailleurs tout suite tout éventuel malentendu, en précisant que je ne me compte absolument pas au rang des spécialistes de la visualisation - je m'y suis collée pendant une petite année à l'Université McGill (l'an dernier), où j'étais certes très bien entourée par Stéfan Sinclair, mais où je suis trop peu de temps pour faire autre chose qu'acquérir les bases de ce champ d'étude, ouvrir une première porte pour apercevoir immédiatement derrière des dizaines d'autres portes.
 
-La communication que je vais présenter aujourd'hui un petit bilan de cette initiation à la visualisation, et plus particulièrement le récit de son échec. Un échec puisque si, au tout début de mon année de postdoc, je me voyais déjà partir à l'assaut de ce type de visualisation et pouvoir produire des dessins absolument spectaculaires en 3 mois, je me suis finalement cassé les dents sur l'étape préliminaire, la fameuse consitution du corpus.
+La communication que je vais présenter aujourd'hui propose un petit bilan de cette initiation à la visualisation, et plus particulièrement le récit de son échec. Un échec puisque si, au tout début de mon année de postdoc, je me voyais déjà partir à l'assaut de ce type de visualisation et pouvoir produire des dessins absolument spectaculaires en 3 mois, je me suis finalement cassé les dents sur l'étape préliminaire, la fameuse constitution du corpus.
 
-Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, ces difficultés ont en fait stimulé ma réflexion théoriques, à la fois sur la littérature numérique mais aussi sur son études. Un plan littéraire donc, et un plan épistémologique d'autre part.
+Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, ces difficultés ont en fait stimulé ma réflexion théoriques, à la fois sur la littérature numérique mais aussi sur son étude. Un plan littéraire donc, et un plan épistémologique d'autre part.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
@@ -69,9 +69,9 @@ Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, c
 
 
 ## Cartographier la littérature numérique ?
-* Le chercheur cartographe
-* Un corpus numérique éditorialisé/éditorialisable
-* L'écrivain architecte
+* Le chercheur-cartographe
+* Un corpus numérique éditorialisé et éditorialisable
+* L'écrivain-architecte
 
 ===
 
@@ -84,6 +84,14 @@ J'aimerais interroger la thématique cartographique de ce colloque au prisme de 
 - nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve. Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
 
 - Pour compléter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Je m'inscrit ici dans la ligne droite du concept d'éditorialisation, dont l'une des conséquences consiste à dire que l'écriture, sur le web, relève d'une construction architecturale : construire son texte, c'est en même temps construire son espace. Ce à quoi j'ajouterai que, bien souvent, construire une oeuvre littéraire numérique, c'est aussi construire un espace marginal.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nowhere1.png" -->
+<!-- .slide: class="hover" -->
+
+Cartographier un geste d'écriture
+
+===
 
 Comment, donc cartographier la marge ? Le défi me semble plus grand qu'il n'y paraît, puisqu'il y a de fait une relation probablement complexe, voire une opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte. C'est cette relation que je souhaiterais interroger dans ma communication. Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie.
 
