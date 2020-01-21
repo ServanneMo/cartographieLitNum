@@ -30,7 +30,7 @@ La fouille et la visualisation de corpus informatisées constituent une branche 
 
 La visualisation cartographique de la littérature, ça peut d'abord être cela, celle du texte, du récit. Ici une carte des escales dans l'Iliade. Représentation cartographique arrimée à une réalité géographique.
 
-Cartographie au sens strict, qui consiste à "mapper" des personnages ou des éléments diégétiques d'un récit ; des productions littéraires dans leur dimension éditoriales ; ou encore des auteurs eux-mêmes.
+Il s'agit de "mapper" des personnages ou des éléments diégétiques d'un récit ; des productions littéraires dans leur dimension éditoriales ; ou encore des auteurs eux-mêmes.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -59,52 +59,60 @@ Je citerai ici Stéfan et Geoffrey, afin de dissiper peut-être un grand malente
 
 Je dissiperai d'ailleurs tout suite tout éventuel malentendu, en précisant que je ne me compte absolument pas au rang des spécialistes de la visualisation - je m'y suis collée pendant une petite année à l'Université McGill (l'an dernier), où j'étais certes très bien entourée par Stéfan Sinclair, mais où je suis trop peu de temps pour faire autre chose qu'acquérir les bases de ce champ d'étude, ouvrir une première porte pour apercevoir immédiatement derrière des dizaines d'autres portes.
 
-La communication que je vais présenter aujourd'hui propose un petit bilan de cette initiation à la visualisation, et plus particulièrement le récit de son échec. Un échec puisque si, au tout début de mon année de postdoc, je me voyais déjà partir à l'assaut de ce type de visualisation et pouvoir produire des dessins absolument spectaculaires en 3 mois, je me suis finalement cassé les dents sur l'étape préliminaire, la fameuse constitution du corpus.
+La communication que je vais présenter aujourd'hui propose un petit bilan de cette initiation à la visualisation, et plus particulièrement le récit de son échec. Un échec puisque si, au tout début de mon année de postdoc, je me voyais déjà partir à l'assaut du langage python et produire des dessins absolument spectaculaires en 3 mois, je me suis finalement cassé les dents sur l'étape préliminaire, la fameuse constitution du corpus.
 
-Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, ces difficultés ont en fait stimulé ma réflexion théoriques, à la fois sur la littérature numérique mais aussi sur son étude. Un plan littéraire donc, et un plan épistémologique d'autre part.
+Mais il ne s'agit peut-être finalement que d'un échec partiel car ces difficultés techniques ont en fait nourri ma réflexion théorique, à la fois sur la littérature numérique mais aussi sur son étude.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: data-background-image="img/nowhere1.png" -->
+
+## Cartographier le web littéraire ?
+
+===
+
+Car visualiser, oui, certes, mais visualiser quoi exactement ? Où commence et où s'arrête le corpus littéraire sur le web ? Est-il seulement juste de s'arrêter au web, d'ailleurs, pour penser une littérature qui serait plutôt "numérique" ? Le web, en d'autres termes, est-il une frontière - ne serait-ce que sa propre frontière ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nowhere2.png" -->
 <!-- .slide: class="hover" -->
 
-
-## Cartographier la littérature numérique ?
 * Le chercheur-cartographe
 * Un corpus numérique éditorialisé et éditorialisable
 * L'écrivain-architecte
 
 ===
 
-J'aimerais interroger la thématique cartographique de ce colloque au prisme de la notion de corpus littéraire, en revenant à des questions que l'on pourra trouver très basiques mais qui se posent dès lors que l'on souhaite constituer un corpus natif numérique à des fins d'analyses automatisées. Quelques remarques préalables :
+J'aimerais interroger la thématique cartographique de ce colloque au prisme de la notion de corpus littéraire numériques, en revenant à des questions que l'on pourra trouver très basiques mais qui se posent dès lors que l'on souhaite constituer un corpus "natif numérique" à des fins d'analyses automatisées. Quelques remarques préalables :
 
 - un corpus, en soit, n'existe pas : c'est le chercheur qui le construit toujours. Nous sommes donc des cartographes - cela étant, nous sommes des cartographes quelque peu déboussolés aujourd'hui, puisque nos outils, tout comme les modalités de production de la littérature contemporaine ont changé. Et parmi ces outils, on trouve en tout premier lieu la fameuse visualisation de corpus - *text mining* et *data visualisation* - qui occupent un vaste territoire au sein des HN. Avec une humilité qu'il faut tout de suite souligner, même si on a tendance à l'oublier : une carte n'est pas tant un outil de connaissance qu'un moyen d'objectivation et, dans le cadre de la visualisation de corpus notamment, une véritable méthode heuristique dont l'intérêt réside moins dans le résultat (c'est-à-dire la visualisation), que dans la méthodologie.
 
 - nos corpus natifs numériques sont mouvants, fragiles, éphémères, hétérogènes bref, éditorialisés. Or peut-on seulement cartographier le web, dans la mesure où celui-ci engage un processus d'éditorialisation, que l'on peut définir, pour simplifier lourdement, comme un processus d'ouverture dans le temps et dans l'espace ?
 
-- nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve. Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
+- nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve.
 
-- Pour compléter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Je m'inscrit ici dans la ligne droite du concept d'éditorialisation, dont l'une des conséquences consiste à dire que l'écriture, sur le web, relève d'une construction architecturale : construire son texte, c'est en même temps construire son espace. Ce à quoi j'ajouterai que, bien souvent, construire une oeuvre littéraire numérique, c'est aussi construire un espace marginal.
+  Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
+
+- Pour compléter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Je m'inscris ici dans la ligne droite du concept d'éditorialisation, dont l'une des conséquences consiste à dire que l'écriture, sur le web, relève d'une construction architecturale : construire son texte, c'est en même temps construire son espace. Ce à quoi j'ajouterai que, bien souvent, construire une oeuvre littéraire numérique, c'est aussi construire un espace marginal.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nowhere1.png" -->
 <!-- .slide: class="hover" -->
 
-Cartographier un geste d'écriture
+>Pratiquant le web, une métaphore m’est souvent utile, celle du ballon atmosphérique – quand on le gonfle à l’hélium, l’enveloppe plus lourde que l’air repose à terre. Il faut un minimum de gonflage pour que la forme s’ébauche, et le gonflage total pour que la forme définitive se manifeste et que s’effectue le mouvement ascensionnel. Dans un livre, le format précède le contenu (feuille pliée, cahiers brochés) – dans un site, les contenus seuls définissent le cadre et la forme. L’équivalent presque fractal entre la forme générale de l’œuvre et les éléments qui la composent (l’équilibre d’une phrase de Proust, rapporté à l’équilibre global de la Recherche) est une constante en esthétique – elle vaut probablement pour ce domaine encore à nous largement inconnu, la puissance localisée d’un billet web, et l’univers formel que devient le site complet, et les perspectives qu’il offre. (François Bon, *Après le livre*)
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 
-Comment, donc cartographier la marge ? Le défi me semble plus grand qu'il n'y paraît, puisqu'il y a de fait une relation probablement complexe, voire une opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte. C'est cette relation que je souhaiterais interroger dans ma communication. Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie.
+Comment, donc cartographier la marge ? On cartographie je crois un geste d'écriture de l'écrivain-architecte, un objet processuel, performatif, un espace en construction, plutôt qu'un espace inscrit là définitivement - c'est le pb des corpus instables.
 
+Le défi me semble plus grand qu'il n'y paraît, puisqu'il y a de fait une relation probablement complexe, voire une opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte. C'est cette relation que je souhaiterais interroger dans ma communication. Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie, qui est un **effort de cohérence** là où la théorie de la littérature contemporaine a tendance à insister sur la dissémination, l'hétérogénéité formelle et médiatique, bref le "brouhaha" (ruffel).
 
-Ma réflexion portera sur un aspect très précis : celle de la problématique du corpus.
-
-Intérêt de la visualisation de corpus : Différentes cartes selon nos hypothèses, selon notre manière de dessiner les corpus
-mise en abîme du pb de la mouvance
-
+L'hypotèse que je vais défendre est celle de la dimension créatrice de nos gestes cartographiques, notamment et surtout dans le cadre de projets littéraires en ligne qui ont déjà prévu, en leur sein, un système d'archivage ou de documentation. Pour le dire plus simplement, dans l'exemple que je vais traiter aujourd'hui, tous nos efforts cartographiques ont été dans une certaine mesure un échec du point de vue de l'objectif scientifique annoncé, mais un succès en termes de construction ou de métaconstruction de nos objets d'étude.
 
 <!--
-
-
 - Technique 1 : propagation hypertexte
 Cartographie d'un réseau (centrée texte-objet - étendue et logique d'un corpus), tentative d'archivage, éditorialiser un corpus
 
@@ -125,7 +133,7 @@ source image: _Quand on écrira l’histoire secrète du vingt et unième siècl
 <!-- .element: class="source" -->
 
 ===
-J'ai choisi de travailler sur un corpus à fois limite mais en même temps très typique de ce que nous sommes amenés à étudier en lit num. Le corpus du collectif littéraire et artistique Instin, dont je vais aussi rapidement que possible vous baliser l'histoire, afin d'illustrer le niveau de complexité que peut poser la lit num en termes de définition et délimitation de corpus.
+J'ai choisi de travailler sur un corpus à fois limite mais en même temps très typique de ce que nous sommes amenés à étudier en lit num (je dépasse le web, qui pour moi se dépasse en fait lui-même). Le corpus du collectif littéraire et artistique Instin, dont je vais aussi rapidement que possible vous baliser l'histoire, afin d'illustrer le niveau de complexité que peut poser la lit num en termes de définition et délimitation de corpus.
 
 Hinstin, c'est d'abord le nom d'un général français du XIXe siècle, mort et enterré en 1905 au cimetière du Montparnasse. Le caveau est orné d'un vitrail représentant le portrait photographique du défunt or, un portrait lui même en train de se décomposer - dans une belle mise en abîme de la mort.
 
