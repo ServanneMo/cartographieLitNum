@@ -25,6 +25,8 @@ La fouille et la visualisation de corpus informatisées constituent une branche 
 <!-- .slide: data-background-image="img/instinss.jpg" -->
 <!-- .slide: class="hover"-->
 
+
+===
 La visualisation de corpus littéraire, cela peut donc ressembler à cela : ici la cartographie d'un réseau de "livres préférés" calculés en fonction des tweets de lecteur, réalisée par Martin Geandjean.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -45,6 +47,8 @@ Je citerai ici Stéfan et Geoffrey, afin de dissiper peut-être un grand malente
 
 >Nous reconnaissons que la réaction sceptique chez le littéraire est tout à fait naturelle et nous estimons d’ailleurs qu’une bonne dose de scepticisme est essentielle lorsque se conjuguent analyse informatisée et herméneutique. Cela dit, nous souhaitons remettre en cause l’image dominante que nous fournit la société de l’ordinateur comme générateur prodigieux de données infaillibles et de graphiques inéluctables. Ce que l’on ignore souvent, c’est que l’ordinateur, grâce à la nature même du numérique, peut s’avérer une aide très puissante pour faire proliférer le nombre et les types de représentations d’un texte. Loin d’en réduire la souplesse et la richesse, les outils informatiques peuvent servir à multiplier la matière brute qui mène à de nouveaux constats, de nouvelles associations, de nouveaux arguments. La machine est l’engin du heureux hasard, contrainte seulement par l’imagination de son utilisateur. (Sinclair et Rockwell 2015)
 
+<!-- .element: style="font-size:1.4rem" -->
+
 ===
 
 Je déminerai d'ailleurs tout suite mon propre terrain, en précisant que je ne me compte absolument pas au rang des spécialistes de la visualisation - je m'y suis collée pendant une petite année à l'Université McGill (l'an dernier plus exactement), certes très bien entourée par Stéfan Sinclair, mais trop peu de temps pour faire autre chose qu'acquérir les bases de ce champ d'étude, ouvrir une première porte pour apercevoir immédiatement derrière des dizaines d'autres portes.
@@ -56,10 +60,9 @@ Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, c
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
 
-
 ## Cartographier la littérature numérique ?
 * Le chercheur cartographe
-* Le corpus numérique éditorialisé/éditorialisable
+* Un corpus numérique éditorialisé/éditorialisable
 * L'écrivain architecte
 
 ===
@@ -99,10 +102,10 @@ cartographie d'un brouhaha (centrée contenu des objets : médias, textes, conte
 geste édito de carto: dessiner de la cohérence.
 Exemple de wiki : documenter = créer
 -->
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/instinss.jpg" -->
 
-## _Général Instin_ : un corpus fantôme
+## Cas d'étude. _Général Instin_ : un corpus fantôme
 
 source image: _Quand on écrira l’histoire secrète du vingt et unième siècle…_ sur remue.net  
 
@@ -271,21 +274,17 @@ source image: _La place du mort_ sur remue.net
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/editionInstin.jpg" -->
-
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Un modèle hors-livre ?
+### Du modèle hors-livre à la MarGInalité
+
 
 * Occupation des marges (les marges de la ville puis du web)
 * Dissémination sur plusieurs supports/plateformes
 * Investissement de l'espace public
-* Mais pas *contre* le livre !
+* *Avec* le livre plutôt que *contre* le livre !
 
 source image: _Général Instin_ sur facebook.com
 
@@ -299,6 +298,7 @@ Depuis le squat de la Grange aux belles, Instin s'est toujours s'inscrit relativ
 Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Qu'il s'affiche sur les murs de nos rues ou sur le web, Instin occupe l'espace public - en même temps qu'il participe à redéfinir l'espace public à l'ère numérique.
 
 De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -316,9 +316,11 @@ De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement d
 Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce passage d'un imaginaire du littéraire centré sur le livre comme objet-support, à un imaginaire du littéraire centré sur une action et une pratique : la publication.
 [CITER]
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
-<!-- .slide: class="hover"-->
+
+## Essai cartographique numéro 1 : baliser le collectif (approche réseau)
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mashupInstin.png" -->
@@ -435,7 +437,7 @@ Malgré tout, dans ces premiers pas de collections de textes présent sur le web
 <!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
 <!--  .slide: class="hover"-->
 
-### Finitude
+### Un collectif ouvert, mais structuré
 * un ensemble ouvert et dynamique, mais fini
 * centralité de certains acteurs et plateformes
 
@@ -465,7 +467,6 @@ Ici, le calcul de centralité confirme qu'il existe dans ce corpus des hubs, des
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-
 ![](img/20170509_3_remue1524.png) <!-- .element: width="50%" -->
 ![](img/item-002_crop.png) <!-- .element: width="40%" -->
 
@@ -489,39 +490,8 @@ Ici, le calcul de modularité nous donne une partition en une dizaine de "commun
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-
-### Merci !
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="cover" -->
-
-### MarGInalité
-
-source image: _Il est passé par ici. Il repassera par là. (1)_ sur Remue.net
-
-<!-- .element: class="source" -->
-
-===
-En fait, ce que soulève la question du format pour un corpus tel que le notre, c'est l'inadéquation d'une certaine littérature, qui, en renouant avec certaines formes d'oralité et de performativité, demeure à la marge des circuits d'édition traditionnels.
-
-Pour les acteurs du collectif GI, cette marginalité est bien entendu un geste autant artistique que politique. Mais cela ne change rien au fait que leur absence des circuits de légitimation est problématique, notamment pour sa pérennité. Servanne reviendra sur ce point un peu plus tard.
-
-Notre démarche d'archivage du Général Instin s'inscrit complètement dans cette problématique de la marge, auquel nous répondons par la remise en circulation des résultats de notre étude, en condensant dans un même geste scientifique, la collecte, l'étude et l'éditorialisation de l'archive.
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-<!-- .slide: data-background-image="img/instinss.jpg" -->
-<!-- .slide: class="hover"-->
-
-## Tentative numéro 2 : visualiser le brouhaha
+## Tentative numéro 2 : visualiser le brouhaha (approche textuelle)
 
 
 ====
