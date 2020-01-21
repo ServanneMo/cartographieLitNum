@@ -185,7 +185,7 @@ source image: remue.net
 
 <!-- .element: class="source" -->
 ===
-Lorsque la plateforme publie.net est créée en **XXX**, GI l'insvestit presque immédiatement.
+Lorsque la plateforme publie.net est créée autour de 1999-2000, GI l'insvestit presque immédiatement.
 
 Entre temps, Hinstin perd volontairement son "H" qui le faisait personnage historique, pour devenir un matériau narratif, platisque, sémiotique. Il devient ainsi Général Instin svt abrégé GI.
 
@@ -268,18 +268,7 @@ Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées. Et l
 <!-- .slide: data-background-image="img/instinPapier.png" -->
 
 ===
-Enfin, depuis 2015, Instin est devenu une figure auctoriale à part entière. Pour fêter cela, il a réinvesti le modèle éditorial imprimé, aux Éditions du Nouvel Attila, qui lui a même dédié une collection à lui seul : la collection Othello. Trois ouvrages ont été déjà publiés : une anthologie, un récit *Climax*, une traduction de *Spoon River* d'Edgar Lee Masters, augmentés de nouveaux poèmes instiniens et fantomatiques - pour ceux qui ne le sauraient pas ou plus, Spoon River est un recueil de poèmes .
-
-
-Comme toute contrainte, Instin finira par se dérober à lui-même, en devenant totalement polymorphe - sa fonction et son statut littéraires en constante évolution, au gré de nombreuses appropriations.
-
-Pour preuve, assez récemment, Instin est devenu une figure auctoriale : son nom trône en couverture de 3 ouvrages (une anthologie, un récit de fiction, une traduction d'edgar Lee Masters). Sur les réseaux sociaux, il compte ses propres profils et parle en son nom. Au cours de ce processus d'éditorialisation, Instin s'est donc aussi autorisé.
-
-Instin incarne ainsi des tendances ou des traits saillants des nouvelles pratiques d'écriture à l'ère numérique :
-- une forte tendance à l'appropriation, et son corollaire :
-- une ouverture du concept d'autorité
-- un déplacement - ou en tout cas, une revalorisation d'une écriture qui se déploie en marge des sentiers battus de l'édition littéraires.
-
+Enfin, depuis 2015, Instin est devenu une figure auctoriale à part entière. Pour fêter cela, il a réinvesti le modèle éditorial imprimé, aux Éditions du Nouvel Attila, qui lui a même dédié une collection à lui seul : la collection Othello. Trois ouvrages ont été déjà publiés : une anthologie, un récit *Climax*, une traduction de *Spoon River* d'Edgar Lee Masters, augmentés de nouveaux poèmes instiniens et fantomatiques - pour ceux qui ne le sauraient pas ou plus, Spoon River est un recueil de poèmes en forme d'épitaphes (il s'agit d'un hypertexte non-numérique, reprenant le schéma d'un cimetière, avec les tombes qui dialoguent entre elles).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/corpusFantome.png" -->
@@ -292,9 +281,8 @@ source image: _lexique généraliste_ sur remue.net
 Instin est donc un corpus fantôme.
 La métaphore peut sembler facile pour parler d'une figure elle-même spectrale, mais elle revendiquée par le collectif.
 [CITER]
-Nous tenons tout particulièrement à cette expression qui évoque l'un de nos principaux défis : par sa nature processuelle, une partie de notre corpus semble toujours un peu sur le point de se dérober, voire sur le point de disparaître. En même temps, ce corpus est vivant et continue de se construire en même temps que nous l'étudions.
 
-Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.
+Cette métaphore sied par ailleurs très bien à notre corpus qui, par sa nature processuelle, semble toujours un peu sur le point de se dérober, voire sur le point de disparaître.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -319,8 +307,7 @@ source image: _La place du mort_ sur remue.net
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Du modèle hors-livre à la Mar[GI]nalité
-
+### Un modèle hors-livre ou Mar[GI]nal
 
 * Occupation des marges (les marges de la ville puis du web)
 * Dissémination sur plusieurs supports/plateformes
@@ -364,13 +351,33 @@ Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce p
 
 ## Cartographier le corpus fantôme
 * La problématique de l'inventaire et de la collecte
-* Premières visualisations
+* Quelques conclusions à partir des premières visualisations (plus ou moins réussies)
+
+===
+
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 
 ## Essai cartographique numéro 1 : baliser le collectif (approche réseau)
 
+===
+
+Un travail que j'ai mené avec Nicolas
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mashupInstin.png" -->
+<!-- .slide: class="hover"-->
+
+## Objectifs du projet
+* Questionner le concept d'éditorialisation (du texte littéraire *et* d'une archive littéraire)
+* Cartographier la dynamique collective (étude du réseau)
+* Qu'est-ce qu'Instin ? + Quelles études littéraires pour comprendre Instin ?
+
+===
+
+A l'origine de notre projet, c'est l'intuition que ce qui était à l'oeuvre, et qui est toujours, avec le Général Instin est de nature à éclairer le questionnement de fond de la théorie de l'éditorialisation, sur la littérature, et sur son rapport au fait numérique.  
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/mashupInstin.png" -->
@@ -385,10 +392,6 @@ Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce p
 
 ===
 
-A l'origine de notre projet, c'est l'intuition que ce qui était à l'oeuvre, et qui est toujours, avec le Général Instin est de nature à éclairer le questionnement de fond de la théorie de l'éditorialisation, sur la littérature, et sur son rapport au fait numérique.  
-C'était aussi bien entendu, une curiosité toute scientifique face à un objet que l'on arrive à peine à nommer, un objet qui s'est employé très fort à brouiller les pistes d'une catégorisation possible, au point d'en faire un modus operandi.
->Par exemple, devrais-je dire : ce qui était à l'oeuvre _avec_ le général Instin ? ou _dans_ le général instin ? _sur_ le général instin ? On ne sait pas.
-
 Devant un tel corpus, nous avons procédé de manière très organique, en élaborant notre méthodologie progressivement, de manière itérative en fonction des éléments que nous mettions à jour.
 
 Nous pouvons séparer les différentes opérations en 4 tâches distinctes :
@@ -397,9 +400,7 @@ Nous pouvons séparer les différentes opérations en 4 tâches distinctes :
 3. l'exploration et l'analyse des données récoltées
 4. une réflexion continue, dont les axes se sont détachés et éclaircis progressivement. Ce sont ces axes de réflexions que nous présentons aujourd'hui, dans une version non aboutie.
 
-Si ces 4 tâches peuvent sembler successives, nous les avons en fait mené de front, en parallèle, progressant pas à pas, selon les éléments collectés, selon les questions et hypothèses que nous souhaitions poser, selon les choix techniques que nous faisions pour les résoudre. Si l'on devait un jour aboutir ce projet, si tant est que cela soit possible, notre estimation du travail effectué se situe aux alentours de 10%. 10% qui nous ont servi à débrousailler un corpus, élaborer une chaine d'archivage, produire quelques visualisations, mais surtout identifier des axes de recherche et lever une piste, des pistes, à suivre.
-
-A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il nous dit des modes de publications, de la littérature contemporaine, du réel, lorsque chacun de ces champs d'actions ou champs d'études sont confrontés et travaillés dans la culture numérique, au delà de ces questions donc, a rapidement émergé la question épistémologique de ce que nous faisions d'Instin, dans une démarche auto-réflexive, récursive, tout à fait fertile puisque venant en miroir éclairer la première. Nous allons voir comment.
+A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il nous dit des modes de publications, de la littérature contemporaine, du réel, lorsque chacun de ces champs d'actions ou champs d'études sont confrontés et travaillés dans la culture numérique, au delà de ces questions donc, a rapidement émergé la question épistémologique de ce que nous faisions d'Instin, dans une démarche auto-réflexive, récursive, tout à fait fertile puisque venant en miroir éclairer la première.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/inventaireAtom.png" -->
@@ -409,17 +410,15 @@ A nouveau, au-delà de la question ontologique de ce qu'est Instin, de ce qu'il 
 
 * Recherche, collecte et indexation :
 
-  1. Exploration du corpus par propagation hypertextuelle
-
+    1. Exploration du corpus par propagation hypertextuelle
+    2. Captation systématique (inachevée)
+    3. Ajout de sources jugées antérieures à "GI"
 
 ===
 
 L'inventaire s'est déroulé en trois temps :
-  1. Exploration du corpus par propagation hypertextuelle
-  2. Captation systématique (en cours)
-  3. Ajout de sources antérieures à GI
 
-Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un texte intitulé «G.I. [04.06.09]», publié sur la plateforme Remue.net sous le nom de fichier article3322.html. Nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
+Dans un premier temps, l'objectif était de faire un ballon d'essai avec 10 items, de réfléchir à leur indexation, aux métadonnées dont nous aurions besoin. Nous sommes partis d'un article publié sur la plateforme Remue.net, nous l'avons indexé, et recensé les liens hypertextes contenus dans le texte.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/propagationHypertextuelle.png"  data-background-size="contain" -->
@@ -430,7 +429,7 @@ Nous avons alors suivi le premier lien hypertexte, menant au texte intitulé «L
 
 Cette démarche n'était pas tout à fait arbitraire, même si son point de départ l'était, car elle était guidée par l'idée que les textes s'écrivaient ensemble, se répondaient entre eux, et formaient en fait une certaine unité, informe pour le moment, mais dont les hyperliens traçaient des pistes de lecture et d'écriture, comme le début d'une matrice de sens qu'il restait à dévoiler.
 
-Il ne nous a pas échappé cependant que cette exploration par propagation hypertextuelle devait en principe remonter le temps d'Instin, les auteurs ne pouvant se référer à des textes postérieurs. A moins peut-être qu'une main (ou qu'une intelligence artificielle) ne complexifie la matrice en éditant les textes publiés de nouveaux hyperliens vers des textes plus récents. Ce que nous découvrirons par la suite.
+Ce que l'on n'avait pas encore découvert, c'est qu'une main était derrière à la manoeuvre pour complexifier la matrice en éditant les textes publiés de nouveaux hyperliens vers des textes plus récents.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/inventaireAtom.png" -->
@@ -444,13 +443,13 @@ Il ne nous a pas échappé cependant que cette exploration par propagation hyper
   2. Captation systématique (en cours)
   3. Ajout de sources antérieures à GI
 
-Actuellement <i class="fa fa-arrow-right"></i> 76 _manifestations_ (dont 90% sources web)
+Corpus final de l'expérience : <i class="fa fa-arrow-right"></i> 76 _manifestations_ (dont 90% sources web)
 
 ===
 
 A partir de 10, nous avons créé un fichier inventaire en xml et nous avons poursuivi cette approche par propagation hypertextuelle jusqu'à 30 items.
 
-Puis nous sommes passés à une captation systématique, en nous appuyant sur les rubriques du site Remue.net. La captation est toujours en cours, nous en sommes à quelques 76 items, en incluant les éléments antérieures à GI : ce sont les éléments pré-instiniens, ceux dont servanne nous a parlé, notamment pour tenter de cerner Hinstin, au moins dans le temps.. timeline a suivre.
+Puis nous sommes passés à une captation systématique, en nous appuyant sur les rubriques du site Remue.net. La captation est toujours en cours, nous en sommes à quelques 76 items, en incluant les éléments antérieures à GI : ce sont les éléments pré-instiniens, ceux dont servanne nous a parlé, notamment pour tenter de cerner Hinstin, au moins dans le temps..
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/data-workflow.png" data-background-size="contain" -->
@@ -473,21 +472,20 @@ La chaine est présentée ici de manière linéaire là les différentes étapes
 
 Nous avons fait le choix de produire une archive en TEI, selon un schéma qui continue d'évoluer au fil de notre recherche.
 
-Ce choix qui était dans un premier temps presque une évidence vis à vis de notre démarche s'est avéré paradoxal vis-à-vis de la nature du corpus.
+Ce choix qui était dans un premier temps presque une évidence vis à vis de notre démarche (réaliser une archive éditorialisée/able) s'est avéré paradoxal vis-à-vis de la nature du corpus.
 
-Évidence, car tout d'abord, en tant que digital humanist, nous nous inscrivions ainsi dans une communauté de pratique, en bénéficiant de ses ressources et de son expérience. Mais aussi évidence, car notre approche était initialement centrée sur le texte, anticipant un travail de texte mining prometteur sur un contenu aussi disparate.
-
-Et pourtant... d'une part le corpus se révèle beaucoup plus transmédiatique qu'une simple collection de texte, et donc potentiellement peu adéquate aux orientations de la TEI. Par ailleurs, il n'était pas question de procéder à un encodage fin des aspects de mise en forme, pour lequel se déploie toute la puissance de la TEI sur de l'encodage de manuscrit par exemple.
+Notre approche était initialement centrée sur le texte, alors que le corpus se révèle beaucoup plus transmédiatique qu'une simple collection de texte, et donc potentiellement peu adéquate aux orientations de la TEI. Par ailleurs, il n'était pas question de procéder à un encodage fin des aspects de mise en forme, pour lequel se déploie toute la puissance de la TEI sur de l'encodage de manuscrit par exemple.
 
 Mais surtout, pour ceux qui ont déjà eu à faire à la conception ou la manipulation d'un schéma XML, l'idée même d'un "schéma Général Instin" semble un paradoxe complet, pour ne pas dire une aberration.
 
-Malgré tout, dans ces premiers pas de collections de textes présent sur le web, le passage d'un format HTML à un autre format continue de faire sens pour la production d'une archive.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="./img/Composition3Graphes_large.png" data-background-size="cover" -->
 <!--  .slide: class="hover"-->
 
-### Un collectif ouvert, mais structuré
+### Conclusions de (quelques) premières (finalement)
+* Un collectif ouvert, mais structuré
 * un ensemble ouvert et dynamique, mais fini
 * centralité de certains acteurs et plateformes
 
@@ -546,19 +544,18 @@ Ici, le calcul de modularité nous donne une partition en une dizaine de "commun
 
 ====
 
-Même si "Visualiser le brouhaha" est le titre de ma présentation, je ne montrerai pas beaucoup de visualisations aujourd'hui. Je vais plutôt présenter comment je m'efforce de produire des visualisations d'un corpus assez difficile, qui relève de ce que l'on peut appeler une "littérature de brouhaha". La "littérature de brouhaha" est un concept proposé par le théoricien français Lionel Ruffel en 2016, et depuis lors de plus en plus utilisé dans les études littéraires françaises.
+Un an plus tard, changement de méthodologie : je fais cavalière seule pour étudier le collectif Instin avec une méthodo de fouille et visualisation de texte à l'aide de python.
 
-Je vais expliquer et illustrer en détail le concept plus tard, mais rapidement, disons que la littérature de brouhaha fait référence à de nouveaux types de corpus hétérogènes, composés de sources très disséminées dans et en dehors du web. Ces sources peuvent être textuelles, visuelles, sonores, de performance, etc.
-
-Bien que pertinent, et se référant à une très grande partie de l'écriture et des pratiques artistiques contemporaines, ce concept de "brouhaha littéraire" peut être très difficile pour l'analyse littéraire computationnelle, puisque la notion ordonnée d'une œuvre à analyser est remplacée par une suite sans fin de questions sur ce qui lui appartient et comment l'appréhender.
+Il s'agit ici de faire du web-scraping, mais aussi de travailler davantage le corpus pour en faire une donnée exploitable pour de la fouille de texte (avec Voyant).
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/sans_titre-2.jpg" -->
 <!-- .slide: class="hover" -->
 
-### Objectif du projet :
-* Approche textuelle (la voix du collectif vs l'individualité des contributeurs/auteurs)
+### Objectifs du projet :
+* Questionner le concept de "littérature brouhaha"
+* Comprendre le paradoxe du collectif à l'ère numérique (la voix du collectif vs l'individualité des contributeurs/auteurs)
 * Si le brouhaha est synonyme de cacophonie, peut-on trouver des *patterns* collectifs ?
 
 source image: _introduction au feuilleton collectif Général Instin_ sur remue.net
@@ -567,19 +564,30 @@ source image: _introduction au feuilleton collectif Général Instin_ sur remue.
 
 ===
 
+Forte de mon expérience instinienne précédente, je savais que le corpus constituait une difficulté majeure, et l'essentiel du projet a tourné autour de cette question : comment interpréter avec des visualisation la notion de littérature brouahah ?
+
+Bien que pertinent, et se référant à une très grande partie de l'écriture et des pratiques artistiques contemporaines, ce concept de "brouhaha littéraire" peut être très difficile pour l'analyse littéraire computationnelle, puisque le principe même du corpus stable et fini est mise en difficulté.
+
 En fait, "visualiser Brouhaha" peut sembler une absurdité : le principe de cette littérature est d'être chaotique.
 
-Ma question, pour porter la métaphore, est la suivante : pouvons-nous voir certains schémas dans ce brouhaha ? S'agit-il d'une simple cacophonie, ou pouvons-nous identifier certains échos, ou même peut-être une organisation chorale ?
+Ma question, pour porter la métaphore sonore, est la suivante : pouvons-nous voir certains échos dans ce brouhaha ? S'agit-il d'une simple cacophonie, ou pouvons-nous identifier certains échos, ou même peut-être une organisation chorale ?
 
 C'était un beau défi, et je tiens à remercier Stefan Sinclair pour son aide sur ce projet fou, qui a partiellement échoué, mais partiellement seulement, car comme nous le savons, l'un des principaux intérêts de la visualisation est le processus herméneutique impliqué dans notre recherche et notre méthodologie, qui peut révéler la complexité de nos objets.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/sans_titre-2.jpg" -->
+<!-- .slide: class="hover" -->
+
+### Méthodologie
+* Web scraping (python - beautiful soup)
+* indexation et organisation du corpus (html)
+* Analyse dans Voyant Tool
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
 <!-- .slide: data-background-image="img/abnormal.png" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
-## Construire le corpus Instin pour la visualisation (où les problèmes commencent)
+## Du moissonnage à l'archéologie des plateformes de littérature numérique
 * De vieilles plateformes
 * Des éditeurs multiples
 * Des problèmes de structuration
@@ -593,7 +601,7 @@ Avant de visualiser l'abdomen face à la notion de brouhaha, j'ai dû rassembler
 
 J'ai pu extraire 152 éléments - ou pages - donc ce n'est qu'une partie du corpus (probablement 50%), mais c'est probablement le plus important, en termes de visibilité.
 
-Le processus de grattage du web n'a pas été aussi facile que prévu, à cause de mon niveau en python (je suis débutant), mais aussi à cause de la structure des données, surtout sur Remue.net.
+Le processus de web scrapping du web n'a pas été aussi facile que prévu, à cause de mon niveau en python (je suis débutante), mais aussi à cause de la structure des données, surtout sur Remue.net.
 
 Remue est une vieille plateforme, qui joue un rôle majeur dans la production et la diffusion de la littérature française contemporaine. Le site est un spip, un CMS très utilisé dans la région française.
 
@@ -617,7 +625,7 @@ En d'autres termes, la structuration des données, sur le site web, est assez sa
 
 Le processus de grattage de la toile a également soulevé une question méthodologique intéressante :
 - la question de la granularité : certains textes sont très longs, composés de plusieurs autres textes (quelle est la meilleure stratégie : considérer une page, ou une partie de la page ?)
-- la question de la nature du texte littéraire : J'en parlerai dans quelques minutes, mais le corpus sur Remue contient quelques textes "non créatifs", comme par exemple des annonces pour un événement, pour un spectacle ou un festival dédié à l'Instin. Cela fait certainement partie du brouhaha, mais cela aborde la question des frontières de la littérature.
+- la question de la nature du texte littéraire : le corpus sur Remue contient quelques textes "non créatifs", comme par exemple des annonces pour un événement, pour un spectacle ou un festival dédié à l'Instin. Cela fait certainement partie du brouhaha, mais cela aborde la question des frontières de la littérature.
 - Co-auteurs : dans de nombreux cas, pour une même page ou un même article, il existe des types de contributeurs très différents. Ce problème se pose avec le contenu de la vidéo, où nous avons un réalisateur, l'auteur du texte, les interprètes...
 
 L'Instin est un groupe, un collectif : nous devons prendre en compte tous ces différents types de contributeurs afin d'appréhender la dynamique.
@@ -644,7 +652,7 @@ Je pense que le "canon" est un concept très prometteur pour comprendre la litt�
 
 <!-- .slide: data-background-image="img/voyantall.png" data-background-size="contain" -->
 
-### (Finalement) Visualiser [un peu]
+### Quelques (petites) visualisations [finalement]
 
 ===
 
@@ -670,31 +678,21 @@ L'Hinstin avec un "H" hante le corpus Instin.
 
 Cette réitération souligne la présence d'un métadiscours important sur le projet et le corpus lui-même.
 
-Instin est un fantôme, représenté par l'histoire réitérée de sa disparition, qui lui donne finalement un supplément d'existence.
+Instin est un fantôme, représenté par l'histoire réitérée de sa disparition, qui lui donne finalement un supplément d'existence. En d'autres termes, ce que l'on voit ressurgir ici, plus qu'Instin, c'est un métadiscours sur Instin.
 
-
-<!--	Exported from Voyant Tools (voyant-tools.org).
-The iframe src attribute below uses a relative protocol to better function with both
-http and https sites, but if you're embedding this into a local web page (file protocol)
-you should add an explicit protocol (https if you're using voyant-tools.org, otherwise
-it depends on this server.
-Feel free to change the height and width values or other styling below: -->
-<iframe style='width: 894px; height: 488px;' src='//voyant-tools.org/tool/Trends/?query=hinstin&query=instin*&corpus=9f88ad835e5c8fcd0d744c00d055a374'></iframe>
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## Conclusion : L'architecte et le cartographe
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/oeil.jpg" -->
 <!-- .slide: class="hover" -->
 
-### Archive 3.0
-
->The use of archives by artists, critics, and curators in performative contexts has changed the way we understand and work with archives. So, for example, archives, as we have seen, are increasingly utilized as production tools (Osthoff 2009, 11) causing what has been described as a “contamination between artwork and documentation” (p. 11), artworks and archives, archives and found objects, archival practices and everyday life. This changing function of the archive has transformed it from “stable and retroactive” to “generative” (p. 12), which means that the user of the archive also plays a productive part in this process. (Gabriela Giannachi, *Archive Everything: Mapping the Everyday* (2016))
-
-<!-- .element: style="font-size:1.4rem" -->
+### Les différents niveaux du collectif Instin :
+  - des contributions uniques / ponctuelles
+  - des projets collectifs (2 à 10 personnes) ponctuelles
+  - un geste éditorial d'archivage *et* d'éditorialisation **continu**
 
 ===
 
@@ -704,15 +702,28 @@ Ce que je traitais comme un corpus semble être avant tout une archive.
 
 La construction de l'archive va de pair avec la construction des métafictions du groupe.
 
-Dans le text mining, l'organisation du "corpus" n'a pas tant d'importance. Mais dans ce cas, l'aspect matériel est important.
-
-A l'avenir, je devrai explorer cette tension entre le corpus primaire et la fonction d'archive : Je dois comprendre comment Instin est construit par l'"archive", et comment cette archive vise à devenir un objet artistique.
-
-Archive 3.0 = aspect performatif.
-
+- des contributions uniques / ponctuelles
+- des projets collectifs (2 à 10 personnes) ponctuelles
+- un geste éditorial *et* d'éditorialisation continu - un geste d'éditorialisation, qui vient faire le récit du collectif Instin au fur et à mesure que celui-ci s'écrit, parfois ailleurs.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/archive.png" -->
+<!-- .slide: data-background-image="img/oeil.jpg" -->
+<!-- .slide: class="hover" -->
+
+### Archive 3.0 ?
+
+>The use of archives by artists, critics, and curators in performative contexts has changed the way we understand and work with archives. So, for example, archives, as we have seen, are increasingly utilized as production tools (Osthoff 2009, 11) causing what has been described as a “**contamination between artwork and documentation**” (p. 11), artworks and archives, archives and found objects, archival practices and everyday life. This changing function of the archive has transformed it from “stable and retroactive” to “generative” (p. 12), which means that the user of the archive also plays a productive part in this process. (Gabriela Giannachi, *Archive Everything: Mapping the Everyday* (2016))
+
+<!-- .element: style="font-size:1.4rem" -->
+
+===
+Gabriela Giannachi a exploré ce devenir-archive de la production artistique contemporaine
+Archive 3.0 = aspect performatif.
+
+>L'utilisation des archives par les artistes, les critiques et les conservateurs dans des contextes performatifs a changé la façon dont nous comprenons et travaillons avec les archives. Ainsi, par exemple, les archives, comme nous l'avons vu, sont de plus en plus utilisées comme outils de production (Osthoff 2009, 11), ce qui entraîne ce qui a été décrit comme une "**contamination entre l'œuvre d'art et la documentation**" (p. 11), les œuvres d'art et les archives, les archives et les objets trouvés, les pratiques archivistiques et la vie quotidienne. Cette évolution de la fonction des archives les a transformées de "stables et rétroactives" à "génératrices" (p. 12), ce qui signifie que l'utilisateur des archives joue également un rôle productif dans ce processus.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/NicoTweet.png" -->
 <!-- .slide: class="hover"-->
 
 ### Éditorialiser l'archive GI : le chercheur cartographe ou architecte ?
@@ -723,8 +734,12 @@ Double dynamique :
 
 ===
 
-Et c'est là que se joue l'enjeu épistémologique du projet, dont l'enjeu n'est pas simplement l'archivage d'instin, mais l'éditorialisation de l'archive, et l'espace ainsi produit.
+Et c'est là que se joue l'enjeu épistémologique des projets cartographiques, dont l'enjeu n'est pas simplement l'archivage, la visualisation ou le balisage d'instin, mais l'espace que nous produisons à travers ces projets et ces méthodologies.
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/NicoTweet.png" -->
+
+===
 L'éditorialisation de l'archive nous inscrit dans une double dynamique :
 
 1. en ouvrant l'archive au public, aux communautés de chercheurs et d'auteurs, nous nous inscrivons dans la continuité de l'esprit Instin, dont une des pierres angulaires est l'appropriation. L'archive vient donc à la fois refléter le GI, mais aussi l'étendre, le remettre en mouvement et générer potentiellement de nouvelles écritures.  L'ouverture et la continuité qui caractérisent l'éditorialisation s'appliquent pleinement dans notre démarche.
@@ -732,7 +747,10 @@ L'éditorialisation de l'archive nous inscrit dans une double dynamique :
 2. par ailleurs, une dynamique de réflexivité car le design même de l'archive que nous produisons, ce dispositif d'éditorialisation, ou encore cet espace Instin Studies, nous dit des choses du dispositif Instin ou de l'espace, du milieu Instin. Et c'est pourquoi l'archive et son éditorialisation n'est pas l'aboutissement du projet, mais peut-être le commencement d'une réponse sur ce qu'est le dispositif Instin, sur ce qu'est Instin et comment il procède, ou plutôt en tant que fait littéraire, comment il performe le réel.
   * Ce pari est celui d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
 
-Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.
+**Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.**
+
+**Instin est un fantôme, performé par le récit sans cesse réitéré de sa disparition, qui lui donne finalement un supplément d'existence.**
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/editionInstin.jpg" "data-background-size="contain" -->
