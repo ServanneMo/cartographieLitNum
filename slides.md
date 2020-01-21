@@ -21,29 +21,35 @@ En écrivant ces derniers jours ma communication, j'ai d'abord pensé en modifie
 
 La fouille et la visualisation de corpus informatisées constituent une branche florissante des Humanités numériques, y compris des humanités numériques littéraires, qui relèvent de facto de la pratique cartographique : visualiser un corpus, c'est en proposer une représentation graphique reposant sur un certains nombre de codes et de conventions préalablement définies par le chercheur/codeur/concepteur de l'outil, et par les possibilités de la machine.
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinss.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-===
-La visualisation de corpus littéraire, cela peut donc ressembler à cela : ici la cartographie d'un réseau de "livres préférés" calculés en fonction des tweets de lecteur, réalisée par Martin Geandjean.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: data-background-image="img/IliadLorenzo.png" -->
 
 
 ===
 
-Et, bien entendu, de la cartographie au sens strict, qui consiste à "mapper" des personnages ou des éléments diégétiques d'un récit ; des productions littéraires dans leur dimension éditoriales ; ou encore des auteurs eux-mêmes - il existe une déclinaison large des cartographies possibles, qui permettent d'explorer nos corpus et de nous aider à les interpréter.
+La visualisation cartographique de la littérature, ça peut d'abord être cela, celle du texte, du récit. Ici une carte des escales dans l'Iliade. Représentation cartographique arrimée à une réalité géographique.
+
+Cartographie au sens strict, qui consiste à "mapper" des personnages ou des éléments diégétiques d'un récit ; des productions littéraires dans leur dimension éditoriales ; ou encore des auteurs eux-mêmes.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/GrandjeanTopTenComplet.jpg" -->
+
+
+
+===
+La visualisation de corpus littéraire, cela peut aussi ressembler à cela : des effets de réseau que l'on tente d'expliciter. ici la cartographie d'un réseau "livres préférés" calculés en fonction des tweets de lecteur, réalisée par Martin Geandjean.
+
+Il existe une déclinaison large des cartographies possibles, qui permettent d'explorer nos corpus et de nous aider à les interpréter.
 
 Si vous commencez déjà à vous ennuyer ou à vous inquiétez, voire à vous révolter face à mes propos, c'est probablement que vous vous trouvez au bon endroit, à savoir dans un colloque rassemblant une communauté de littéraires (*even* Marcello).
 
 Je citerai ici Stéfan et Geoffrey, afin de dissiper peut-être un grand malentendu :
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: class="hover" -->
 
 >Nous reconnaissons que la réaction sceptique chez le littéraire est tout à fait naturelle et nous estimons d’ailleurs qu’une bonne dose de scepticisme est essentielle lorsque se conjuguent analyse informatisée et herméneutique. Cela dit, nous souhaitons remettre en cause l’image dominante que nous fournit la société de l’ordinateur comme générateur prodigieux de données infaillibles et de graphiques inéluctables. Ce que l’on ignore souvent, c’est que l’ordinateur, grâce à la nature même du numérique, peut s’avérer une aide très puissante pour faire proliférer le nombre et les types de représentations d’un texte. Loin d’en réduire la souplesse et la richesse, les outils informatiques peuvent servir à multiplier la matière brute qui mène à de nouveaux constats, de nouvelles associations, de nouveaux arguments. La machine est l’engin du heureux hasard, contrainte seulement par l’imagination de son utilisateur. (Sinclair et Rockwell 2015)
 
@@ -59,6 +65,8 @@ Mais il ne s'agit peut-être finalement que d'un échec partiel car, je crois, c
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: class="hover" -->
+
 
 ## Cartographier la littérature numérique ?
 * Le chercheur cartographe
@@ -75,21 +83,19 @@ J'aimerais interroger la thématique cartographique de ce colloque au prisme de 
 
 - nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve. Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
 
-- Pour complèter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Construire des oeuvres, c'est aussi construire des espaces marginaux - que nous avons donc l'ambition, nous, de cartigraphier, mais comment ?
+- Pour compléter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Je m'inscrit ici dans la ligne droite du concept d'éditorialisation, dont l'une des conséquences consiste à dire que l'écriture, sur le web, relève d'une construction architecturale : construire son texte, c'est en même temps construire son espace. Ce à quoi j'ajouterai que, bien souvent, construire une oeuvre littéraire numérique, c'est aussi construire un espace marginal.
 
-Opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte
+Comment, donc cartographier la marge ? Le défi me semble plus grand qu'il n'y paraît, puisqu'il y a de fait une relation probablement complexe, voire une opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte. C'est cette relation que je souhaiterais interroger dans ma communication. Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie.
 
-réseau à la carte : effets de distance et rapprochement dans le réseau que l'on peut reconstituer pour faire carte
+
+Ma réflexion portera sur un aspect très précis : celle de la problématique du corpus.
 
 Intérêt de la visualisation de corpus : Différentes cartes selon nos hypothèses, selon notre manière de dessiner les corpus
 mise en abîme du pb de la mouvance
 
-Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie.
 
 <!--
 
-Plan :
-- GI : le corpus fantôme
 
 - Technique 1 : propagation hypertexte
 Cartographie d'un réseau (centrée texte-objet - étendue et logique d'un corpus), tentative d'archivage, éditorialiser un corpus
@@ -102,7 +108,7 @@ geste édito de carto: dessiner de la cohérence.
 Exemple de wiki : documenter = créer
 -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/instinss.jpg" -->
+<!-- .slide: data-background-image="img/20181210_154554.jpg" -->
 
 ## Cas d'étude. _Général Instin_ : un corpus fantôme
 
@@ -111,7 +117,12 @@ source image: _Quand on écrira l’histoire secrète du vingt et unième siècl
 <!-- .element: class="source" -->
 
 ===
+J'ai choisi de travailler sur un corpus à fois limite mais en même temps très typique de ce que nous sommes amenés à étudier en lit num. Le corpus du collectif littéraire et artistique Instin, dont je vais aussi rapidement que possible vous baliser l'histoire, afin d'illustrer le niveau de complexité que peut poser la lit num en termes de définition et délimitation de corpus.
+
 Hinstin, c'est d'abord le nom d'un général français du XIXe siècle, mort et enterré en 1905 au cimetière du Montparnasse. Le caveau est orné d'un vitrail représentant le portrait photographique du défunt or, un portrait lui même en train de se décomposer - dans une belle mise en abîme de la mort.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/20181210_154554.jpg" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
@@ -169,9 +180,9 @@ Il faut dire que GI, sur le web, performe quelque peu son statut fantomatique en
 Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/XXTODOXX" data-background-size="contain" -->
 
-source image: generalinstin.net  <!-- .element: class="source" -->
+source image: Hors-Sol  <!-- .element: class="source" -->
 
 ===
 Ainsi, il se permet des incursions sur d'autres plateformes, des revues numériques comme, par exemple, *Hors-sol*
@@ -188,11 +199,32 @@ Des sites dédiés à des projets fonctionnant de manière relativement autonome
 ce que nous avons nommé "Spin-off" - comme ici le site web generalinstin.net, qui consitue une archive de *Climax*, publié par ailleurs en version imprimée (j'y reviendrai).
 
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/interditSaufInstin.jpg" data-background-size="contain" -->
+
+===
+
+Instin, c'est aussi de la poésie urbaine, reposant sur un mélange entre l'affichage et le détournement des espaces institutionnels et publics existants...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/item-036.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/instin_1_redimensionnee-2.jpg" data-background-size="contain" -->
 
-source image: generalinstin.net  <!-- .element: class="source" -->
+===
+
+...du land-art...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/sans_titre-2.jpg" data-background-size="contain" -->
+
+
+===
+
+... des festivals de rue avec performances...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/TwitterInstin.png" data-background-size="contain" -->
+
+source image: Twitter, profil Instin  <!-- .element: class="source" -->
 
 ===
 
@@ -215,10 +247,6 @@ Au cours des années 2000 en effet, Retour de bâton : le collectif découvre qu
 La BNF, surtout, dispose même d'un fonds d'archive photo de la famille classée dans les dossiers consacrés à Lautréamont (la rumeur voulant qu'Isidore Ducasse ait entretenu une relation très étroite avec son professeur Hinstin, frère de notre général).
 
 Comme quoi l'Histoire et l'histoire ne sont finalement pas si cloisonnées. Et le GI nous fait parfois penser à une somme de petites anecdotes reliées entre elles.  
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/sans_titre-2.jpg" data-background-size="contain"-->
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/instinPapier.png" -->
@@ -254,7 +282,7 @@ Instin est un fantôme, performé par le récit sans cesse réitéré de sa disp
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/mashupInstin.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### De Hinstin à Instin
@@ -270,14 +298,12 @@ source image: _La place du mort_ sur remue.net
 
 ===
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/editionInstin.jpg" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Du modèle hors-livre à la MarGInalité
+### Du modèle hors-livre à la Mar[GI]nalité
 
 
 * Occupation des marges (les marges de la ville puis du web)
@@ -300,7 +326,7 @@ De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement d
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
+<!-- .slide: data-background-image="img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
 
 ### Une littérature "brouhaha"
@@ -321,6 +347,8 @@ Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce p
 <!-- .slide: class="hover"-->
 
 ## Cartographier le corpus fantôme
+* La problématique de l'inventaire et de la collecte
+* Premières visualisations
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
@@ -691,8 +719,7 @@ L'éditorialisation de l'archive nous inscrit dans une double dynamique :
 Instin travaille notre archive, comme l'archive travaille Instin, et ces deux performativités produisent et sont la production de deux espaces distincts.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/iLoveInstin.jpg" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/editionInstin.jpg" "data-background-size="contain" -->
 
 
 ### Merci !
