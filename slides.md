@@ -743,8 +743,6 @@ Archive 3.0 = aspect performatif.
 >L'utilisation des archives par les artistes, les critiques et les conservateurs dans des contextes performatifs a changé la façon dont nous comprenons et travaillons avec les archives. Ainsi, par exemple, les archives, comme nous l'avons vu, sont de plus en plus utilisées comme outils de production (Osthoff 2009, 11), ce qui entraîne ce qui a été décrit comme une "**contamination entre l'œuvre d'art et la documentation**" (p. 11), les œuvres d'art et les archives, les archives et les objets trouvés, les pratiques archivistiques et la vie quotidienne. Cette évolution de la fonction des archives les a transformées de "stables et rétroactives" à "génératrices" (p. 12), ce qui signifie que l'utilisateur des archives joue également un rôle productif dans ce processus.
 
 
-===
-
 On comprend ici le pb : est-ce que l'on est pas en train de se tromper un peu en cherchant à archiver une archive??
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
