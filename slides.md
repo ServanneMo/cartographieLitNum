@@ -16,10 +16,17 @@ Défi de visualisation, défi cartographique
 
 ===
 
-En écrivant ces derniers jours ma communication, j'ai d'abord pensé en modifier quelque peu le titre, puisque davantage que le "défi de la visualisation de texte", ce que le colloque me paraît interroger avec force, c'est surtout le défi de la cartographie des corpora numériques - c'est-à-dire, finalement, une étape qui fait partie intégrante de la visualisation de texte, ou plus précisément l'étape préparatoire à toute tentative de visualisation.
+Je vais vous montrer aujourd'hui 2 projets inachevés, et à vrai dire peut-être inachevable (c'est du moins la conclusion à laquelle je parviens parfois à la fin de certaines journées de travail).
 
+Le titre de ma communication est un peu ambitieux ou du moins assez trompeur : le "défi de la visualisation de texte" donne l'impression que je vais vous montrer de beaux graphiques, pour être honnête ce ne sera pas vraiment le cas.
+
+Ce colloque a pour titre et pour thématique "cartographie du web littéraire francophone", et j'ai un peu tiqué ou bugué face à ce titre, qui me renvoyais à un problème à la fois conceptuel et méthodologique auquel je dois moi-même faire face : l'établissement et le balisage d'un corpus (plus ou moins) natif numérique, à des fins de visualisation de texte.
+
+Mon approche, aujourd'hui sera donc d'abord méthodologique et épistémologique - même si, par la bande, elle a vocation à interroger la nature de la littérature sur le web.
 
 La fouille et la visualisation de corpus informatisées constituent une branche florissante des Humanités numériques, y compris des humanités numériques littéraires, qui relèvent de facto de la pratique cartographique : visualiser un corpus, c'est en proposer une représentation graphique reposant sur un certains nombre de codes et de conventions préalablement définies par le chercheur/codeur/concepteur de l'outil, et par les possibilités de la machine.
+
+Ce que je veux questionner, pour être plus précise, c'est la relation entre deux gestes d'écriture : une écriture cartographique, qui serait donc la nôtre, celle des chercheurs ; et un geste d'écriture "web", celui des écrivains et écrivaines qui ont choisi cette forme d'Expression et de diffusion.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -83,7 +90,7 @@ Car visualiser, oui, certes, mais visualiser quoi exactement ? Où commence et o
 
 ===
 
-J'aimerais interroger la thématique cartographique de ce colloque au prisme de la notion de corpus littéraire numériques, en revenant à des questions que l'on pourra trouver très basiques mais qui se posent dès lors que l'on souhaite constituer un corpus "natif numérique" à des fins d'analyses automatisées. Quelques remarques préalables :
+Au risque d'enfoncer quelques portes ouvertes, je vais baliser quelques principes théoriques qu'il est bon de rappeler dès lors que l'on souhaite constituer un corpus "natif numérique" à des fins d'analyses automatisées. Quelques remarques préalables :
 
 - un corpus, en soit, n'existe pas : c'est le chercheur qui le construit toujours. Nous sommes donc des cartographes - cela étant, nous sommes des cartographes quelque peu déboussolés aujourd'hui, puisque nos outils, tout comme les modalités de production de la littérature contemporaine ont changé. Et parmi ces outils, on trouve en tout premier lieu la fameuse visualisation de corpus - *text mining* et *data visualisation* - qui occupent un vaste territoire au sein des HN. Avec une humilité qu'il faut tout de suite souligner, même si on a tendance à l'oublier : une carte n'est pas tant un outil de connaissance qu'un moyen d'objectivation et, dans le cadre de la visualisation de corpus notamment, une véritable méthode heuristique dont l'intérêt réside moins dans le résultat (c'est-à-dire la visualisation), que dans la méthodologie.
 
@@ -91,7 +98,7 @@ J'aimerais interroger la thématique cartographique de ce colloque au prisme de 
 
 - nos corpus natifs numériques sont aussi, quoiqu'on en dise, marginaux. La question de l'institutionnalisation comme de la légitimation est certes déjà mise sur les rails, et des colloques tels que celui-ci en sont la preuve - mais avouons que la locomotive ne tourne pas encore vraiment à plein régime, et que la réflexion sur le sujet reste tributaires de groupes certes très actifs et dynamiques, mais parfois un peu isolés du reste des collègues - le nom du groupe qui nous accueille et qui organise le colloque en est la preuve.
 
-  Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
+Comment, donc, cartographier les marges ? Des marges qui d'ailleurs, parfois encore, sont volontaires, se posent comme des conditions à un projet ou à une esthétique?
 
 - Pour compléter cette sainte trinité, nous avons aujourd'hui des écrivain.e.s "architectes". Je m'inscris ici dans la ligne droite du concept d'éditorialisation, dont l'une des conséquences consiste à dire que l'écriture, sur le web, relève d'une construction architecturale : construire son texte, c'est en même temps construire son espace. Ce à quoi j'ajouterai que, bien souvent, construire une oeuvre littéraire numérique, c'est aussi construire un espace marginal.
 
@@ -110,7 +117,7 @@ Comment, donc cartographier la marge ? On cartographie je crois un geste d'écri
 
 Le défi me semble plus grand qu'il n'y paraît, puisqu'il y a de fait une relation probablement complexe, voire une opposition entre 2 gestes d'écriture, celui du cartographe et celui de l'architecte. C'est cette relation que je souhaiterais interroger dans ma communication. Ainsi, c'est la notion même de *corpus* qui me semble difficile à saisir dans le cadre d'un effort de cartographie, qui est un **effort de cohérence** là où la théorie de la littérature contemporaine a tendance à insister sur la dissémination, l'hétérogénéité formelle et médiatique, bref le "brouhaha" (ruffel).
 
-L'hypotèse que je vais défendre est celle de la dimension créatrice de nos gestes cartographiques, notamment et surtout dans le cadre de projets littéraires en ligne qui ont déjà prévu, en leur sein, un système d'archivage ou de documentation. Pour le dire plus simplement, dans l'exemple que je vais traiter aujourd'hui, tous nos efforts cartographiques ont été dans une certaine mesure un échec du point de vue de l'objectif scientifique annoncé, mais un succès en termes de construction ou de métaconstruction de nos objets d'étude.
+L'hypotèse que je vais défendre est celle de la dimension performative et esthétique de nos gestes cartographiques, notamment et surtout dans le cadre de projets littéraires en ligne qui ont déjà prévu, en leur sein, un système d'archivage ou de documentation. Pour le dire plus simplement, dans l'exemple que je vais traiter aujourd'hui, tous nos efforts cartographiques ont été dans une certaine mesure un échec du point de vue de l'objectif scientifique annoncé, mais un succès en termes de construction ou de métaconstruction de nos objets d'étude.
 
 <!--
 - Technique 1 : propagation hypertexte
@@ -196,7 +203,7 @@ Il faut dire que GI, sur le web, performe quelque peu son statut fantomatique en
 Désormais, GI a pris racine dans l'hypertexte, et commence à hanter le web.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/XXTODOXX" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/horsSil.png" data-background-size="contain" -->
 
 source image: Hors-Sol  <!-- .element: class="source" -->
 
@@ -280,7 +287,9 @@ source image: _lexique généraliste_ sur remue.net
 ===
 Instin est donc un corpus fantôme.
 La métaphore peut sembler facile pour parler d'une figure elle-même spectrale, mais elle revendiquée par le collectif.
-[CITER]
+
+>Somme de tous les éléments, écrits, images, gestes, etc., qui constituent le projet GI toujours-en-train-d’apparaître. Ce corpus fantôme se développe par diverses fractales et avatars en vue de constituer une entité géante, totem composé de l’ensemble des matériaux instin qui s’exprimera, grâce à un programme aléatoire dirigé par ordinateur, dans toutes les langues disparues depuis les premiers balbutiements de l’humanité.
+Nous sommes un corps sans cesse modifié. / Nous sommes un corps sans cesse modifiant le monde auquel nous appartenons. / Nous sommes un corps sans cesse modifiant la qualité de l’appartenance
 
 Cette métaphore sied par ailleurs très bien à notre corpus qui, par sa nature processuelle, semble toujours un peu sur le point de se dérober, voire sur le point de disparaître.
 
@@ -307,7 +316,7 @@ source image: _La place du mort_ sur remue.net
 <!-- .slide: data-background-image="img/editionInstin.jpg" -->
 <!-- .slide: class="hover"-->
 
-### Un modèle hors-livre ou Mar[GI]nal
+### Un modèle hors-livre (?) ou Mar[GI]nal
 
 * Occupation des marges (les marges de la ville puis du web)
 * Dissémination sur plusieurs supports/plateformes
@@ -319,13 +328,14 @@ source image: _Général Instin_ sur facebook.com
 <!-- .element: class="source" -->
 
 ===
-Ce qui nous intéresse notamment dans le projet GI est aussi ce qui nous cause le + de difficultés: GI se conçoit principalement dans un "hors-livre", en rupture avec notre modèle éditorial moderne.
+
+En tant que corpus, Instin pose des difficultés parce qu'il se déploie non pas tant hors-le-livre mais dans les marges de notre modèle éditorial moderne.
 
 Depuis le squat de la Grange aux belles, Instin s'est toujours s'inscrit relativement à la marge - des institutions littéraires ou éditoriales traditionnelles.
 
-Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents. Qu'il s'affiche sur les murs de nos rues ou sur le web, Instin occupe l'espace public - en même temps qu'il participe à redéfinir l'espace public à l'ère numérique.
+Il est disséminé sur plusieurs supports, numériques/non-numériques, sur plusieurs plateformes, via des médias différents.
 
-De l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
+Cela étant, de l'investissement d'un squat dans une rue de Paris jusqu'à l'investissement du web, des réseaux sociaux qui sont détournés pour créer un profil "fictif", nous avons tendance à croire qu'il y a là une même stratégie d'occupation des marges et de détournement des institutions, qui est essentiel pour comprendre les mutations qui affectent la notion même de littérature.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -349,9 +359,9 @@ Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce p
 <!-- .slide: data-background-image="img/mashupInstin.png" -->
 <!-- .slide: class="hover"-->
 
-## Cartographier le corpus fantôme
+## Cartographier le corpus fantôme : récit de 2 (plus ou moins) échecs
 * La problématique de l'inventaire et de la collecte
-* Quelques conclusions à partir des premières visualisations (plus ou moins réussies)
+* Quelques conclusions à partir des premières visualisations (plus ou moins) réussies
 
 ===
 
@@ -360,7 +370,7 @@ Lionel Ruffel a proposé le terme de "littérature brouhaha" pour qualifier ce p
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/10458166_10153074634228797_4994304635406227180_n.jpg" -->
 
-## Essai cartographique numéro 1 : baliser le collectif (approche réseau)
+## Tentative cartographique numéro 1 : baliser le collectif (approche réseau)
 
 ===
 
