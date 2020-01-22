@@ -760,7 +760,7 @@ Dans nos projets de visualisation / d'archivage, une double dynamique :
 Et c'est là que se joue l'enjeu épistémologique des projets cartographiques, dont l'enjeu n'est pas simplement l'archivage, la visualisation ou le balisage d'instin, mais l'espace que nous produisons à travers ces projets et ces méthodologies.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/NicoTweet.png" data-background-size="contain -->
+<!-- .slide: data-background-image="img/NicoTweet.png" data-background-size="contain" -->
 
 ===
 Dans le projet mené avec Nicolas en particulier, l'éditorialisation de l'archive nous inscrit dans une double dynamique :
