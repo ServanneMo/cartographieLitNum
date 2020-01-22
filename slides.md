@@ -783,4 +783,4 @@ Notre conclusion est plutôt celle d’un dialogue entre le dispositif de public
 <!-- .slide: data-background-image="img/editionInstin.jpg" "data-background-size="contain" -->
 
 
-### Merci !
+  Merci !
