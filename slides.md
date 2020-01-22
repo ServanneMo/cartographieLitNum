@@ -774,7 +774,7 @@ Dans le projet mené avec Nicolas en particulier, l'éditorialisation de l'archi
 
 Notre conclusion est plutôt celle d’un dialogue entre le dispositif de publication littéraire du GI et le dispositif d’une archive scientifique. Un dialogue tout en tension, tout en contradiction peut-être, mais dont la démarche fait sens pour considérer l’archive non pas comme une tentative de totalisation de GI, mais plutôt de projection en miroir, elle-même excroissance du projet.
 
-**Instin travaille notre archive, comme notre archive travaille Instin comme écriture-archive, et la frontière entre ces deux espaces n'est pas si claire à établir. Avons-nous trouvé le général INstin ?
+**Instin travaille notre archive, comme notre archive travaille Instin et son écriture-archive. La frontière entre les deux espaces de la littérature et de sa recherche n'est dans ce contexte pas si claire à établir. Avons-nous trouvé le général Instin ?
 "Chacun finalement a trouvé son général", mais je dirais que c'est surtout le général qui nous a trouvé, en nous absorbant dans son propre univers.**
 
 
