@@ -697,6 +697,7 @@ Cette réitération souligne la présence d'un métadiscours important sur le pr
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain -->
 
 ## Conclusion : L'architecte et le cartographe face à l'écriture-archive
 
@@ -710,7 +711,7 @@ La construction de l'archive va de pair avec la construction des métafictions d
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/oeil.jpg" -->
+<!-- .slide: data-background-image="img/bissp38.png"  data-background-size="contain-->
 <!-- .slide: class="hover" -->
 
 ### Les différents niveaux du collectif Instin :
@@ -726,7 +727,7 @@ La construction de l'archive va de pair avec la construction des métafictions d
 - un geste éditorial *et* d'éditorialisation continu - un geste d'éditorialisation, qui vient faire le récit du collectif Instin au fur et à mesure que celui-ci s'écrit, parfois ailleurs.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/oeil.jpg" -->
+<!-- .slide: data-background-image="img/oeil.jpg" data-background-size="contain -->
 <!-- .slide: class="hover" -->
 
 ### Archive 3.0 ?
@@ -747,7 +748,7 @@ Archive 3.0 = aspect performatif.
 On comprend ici le pb : est-ce que l'on est pas en train de se tromper un peu en cherchant à archiver une archive??
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/NicoTweet.png" -->
+<!-- .slide: data-background-image="img/instinDoeuvre.png" -->
 <!-- .slide: class="hover"-->
 
 ### Éditorialiser l'archive GI : le chercheur cartographe ou architecte ?
@@ -761,7 +762,7 @@ Dans nos projets de visualisation / d'archivage, une double dynamique :
 Et c'est là que se joue l'enjeu épistémologique des projets cartographiques, dont l'enjeu n'est pas simplement l'archivage, la visualisation ou le balisage d'instin, mais l'espace que nous produisons à travers ces projets et ces méthodologies.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/NicoTweet.png" -->
+<!-- .slide: data-background-image="img/NicoTweet.png" data-background-size="contain -->
 
 ===
 Dans le projet mené avec Nicolas en particulier, l'éditorialisation de l'archive nous inscrit dans une double dynamique :
