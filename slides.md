@@ -131,7 +131,7 @@ geste édito de carto: dessiner de la cohérence.
 Exemple de wiki : documenter = créer
 -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/20181210_154554.jpg" -->
+<!-- .slide: data-background-image="img/20181210_154554_rr.jpg" -->
 
 ## Cas d'étude. _Général Instin_ : un corpus fantôme
 
