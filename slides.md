@@ -131,7 +131,7 @@ geste édito de carto: dessiner de la cohérence.
 Exemple de wiki : documenter = créer
 -->
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/20181210_154554_rr.jpg" -->
+<!-- .slide: data-background-image="img/20181210_154554.jpg" -->
 
 ## Cas d'étude. _Général Instin_ : un corpus fantôme
 
@@ -145,7 +145,7 @@ J'ai choisi de travailler sur un corpus à fois limite mais en même temps très
 Hinstin, c'est d'abord le nom d'un général français du XIXe siècle, mort et enterré en 1905 au cimetière du Montparnasse. Le caveau est orné d'un vitrail représentant le portrait photographique du défunt or, un portrait lui même en train de se décomposer - dans une belle mise en abîme de la mort.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/20181210_154554_rr.jpg" -->
+<!-- .slide: data-background-image="img/20181210_154554.jpg" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/vitrailOriginal.jpg" data-background-size="contain"-->
